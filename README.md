@@ -1,1 +1,2 @@
-# machine-learning-excercises
+# machine-learning-exercises
+class assignment
